@@ -4,7 +4,7 @@ Opens block B (scalability). Node specifics: everything follows from Node being
 single-threaded (see the event-loop module). Builds on the stateless idea, which
 later ties into load balancing and replication.
 
-> 🌐 Russian version: [05-scaling.md](./05-scaling.md)
+> 🌐 Russian version: [05-scaling.ru.md](./05-scaling.ru.md)
 
 The through-line:
 

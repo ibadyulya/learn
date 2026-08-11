@@ -2,7 +2,7 @@
 
 First try it yourself in [tasks.en.md](./tasks.en.md), then check against these.
 
-> 🌐 Russian version: [answers.md](./answers.md)
+> 🌐 Russian version: [answers.ru.md](./answers.ru.md)
 
 ---
 

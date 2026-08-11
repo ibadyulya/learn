@@ -1,5 +1,7 @@
 # Advanced TypeScript
 
+> 🌐 English version: [README.en.md](./README.en.md)
+
 Type-level программирование: generics, keyof/`T[K]`, mapped types, conditional
 types, `never`, key remapping, `infer`, дистрибутивность, разбор утилитных
 типов. Цель — не запомнить трюки, а уметь **вывести** тип вслух, как код.
@@ -435,4 +437,4 @@ never + дистрибутивность; распаковка функций �
 
 ---
 
-См. [tasks.md](./tasks.md) — задачи на реализацию. Разборы — в [answers.md](./answers.md).
+См. [tasks.ru.md](./tasks.ru.md) — задачи на реализацию. Разборы — в [answers.ru.md](./answers.ru.md).

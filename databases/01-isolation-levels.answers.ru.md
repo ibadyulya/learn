@@ -1,5 +1,7 @@
 # Уровни изоляции — разборы
 
+> 🌐 English version: [01-isolation-levels.answers.en.md](./01-isolation-levels.answers.en.md)
+
 ---
 
 ## Вопрос 1

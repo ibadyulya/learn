@@ -3,7 +3,7 @@
 Answer in your own words, then check against
 [01-isolation-levels.answers.en.md](./01-isolation-levels.answers.en.md).
 
-> 🌐 Russian version: [01-isolation-levels.tasks.md](./01-isolation-levels.tasks.md)
+> 🌐 Russian version: [01-isolation-levels.tasks.ru.md](./01-isolation-levels.tasks.ru.md)
 
 ---
 

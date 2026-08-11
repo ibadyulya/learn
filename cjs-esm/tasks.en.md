@@ -2,7 +2,7 @@
 
 Answer in your own words, then check against [answers.en.md](./answers.en.md).
 
-> 🌐 Russian version: [tasks.md](./tasks.md)
+> 🌐 Russian version: [tasks.ru.md](./tasks.ru.md)
 
 ---
 

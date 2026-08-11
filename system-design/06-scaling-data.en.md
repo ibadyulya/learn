@@ -3,7 +3,7 @@
 Block B, a continuation of [05-scaling](./05-scaling.en.md). How to scale beyond
 the stateless layer — traffic and, most importantly, **data**.
 
-> 🌐 Russian version: [06-scaling-data.md](./06-scaling-data.md)
+> 🌐 Russian version: [06-scaling-data.ru.md](./06-scaling-data.ru.md)
 
 The through-line:
 

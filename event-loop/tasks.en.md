@@ -4,7 +4,7 @@ For each task, predict the **output order** without running the code. Where the
 order is non-deterministic — say so and explain why. Solutions — in
 [answers.en.md](./answers.en.md).
 
-> 🌐 Russian version: [tasks.md](./tasks.md)
+> 🌐 Russian version: [tasks.ru.md](./tasks.ru.md)
 
 All examples are CommonJS (Node), run with `node file.js`.
 

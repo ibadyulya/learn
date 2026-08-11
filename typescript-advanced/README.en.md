@@ -6,7 +6,7 @@ types. The goal — not to memorize tricks, but to be able to **derive** a type
 out loud, like code. Reads as a story; the final anchor task (`ExtractByType`)
 is assembled from building blocks introduced one at a time.
 
-> 🌐 Russian version: [README.md](./README.md)
+> 🌐 Russian version: [README.ru.md](./README.ru.md)
 
 The through-line of the whole topic: **types in TypeScript are a second
 programming language that runs at compile time and operates on types the way

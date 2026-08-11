@@ -3,7 +3,7 @@
 Prep material for a senior fullstack JS interview. Topic: how Node decides what
 to run next.
 
-> 🌐 Russian version: [README.md](./README.md)
+> 🌐 Russian version: [README.ru.md](./README.ru.md)
 
 ## 1. Four participants
 

@@ -5,7 +5,7 @@ retries + backoff, DLQ, rate limiting, crash recovery. A continuation of
 [02-event-driven-messaging](./02-event-driven-messaging.en.md); Kafka/Rabbit
 concepts — in [04-kafka-vs-rabbitmq](./04-kafka-vs-rabbitmq.en.md).
 
-> 🌐 Russian version: [03-reliability-patterns.md](./03-reliability-patterns.md)
+> 🌐 Russian version: [03-reliability-patterns.ru.md](./03-reliability-patterns.ru.md)
 
 The through-line of the whole block:
 

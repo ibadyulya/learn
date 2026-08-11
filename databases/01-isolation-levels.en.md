@@ -10,7 +10,7 @@ The through-line of the topic:
 Self-check tasks — [01-isolation-levels.tasks.en.md](./01-isolation-levels.tasks.en.md),
 solutions — [01-isolation-levels.answers.en.md](./01-isolation-levels.answers.en.md).
 
-> 🌐 Russian version: [01-isolation-levels.md](./01-isolation-levels.md)
+> 🌐 Russian version: [01-isolation-levels.ru.md](./01-isolation-levels.ru.md)
 
 ---
 

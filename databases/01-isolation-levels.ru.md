@@ -1,5 +1,7 @@
 # Уровни изоляции транзакций
 
+> 🌐 English version: [01-isolation-levels.en.md](./01-isolation-levels.en.md)
+
 Сквозная идея темы:
 
 > **Транзакция хочет притвориться, будто она в базе одна. Но параллельно бегут
@@ -7,8 +9,8 @@
 > сильно я готов терпеть чужие протечки в обмен на скорость». Выше изоляция →
 > меньше протечек, но меньше параллелизма.**
 
-Задачи для самопроверки — [01-isolation-levels.tasks.md](./01-isolation-levels.tasks.md),
-разборы — [01-isolation-levels.answers.md](./01-isolation-levels.answers.md).
+Задачи для самопроверки — [01-isolation-levels.tasks.ru.md](./01-isolation-levels.tasks.ru.md),
+разборы — [01-isolation-levels.answers.ru.md](./01-isolation-levels.answers.ru.md).
 
 ---
 

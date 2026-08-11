@@ -1,6 +1,8 @@
 # CJS / ESM — вопросы на понимание
 
-Отвечай своими словами, потом сверяйся с [answers.md](./answers.md).
+> 🌐 English version: [tasks.en.md](./tasks.en.md)
+
+Отвечай своими словами, потом сверяйся с [answers.ru.md](./answers.ru.md).
 
 ---
 

@@ -1,7 +1,9 @@
 # Kafka vs RabbitMQ
 
-Финал блока: вся теория из [02](./02-event-driven-messaging.md) и
-[03](./03-reliability-patterns.md) ложится на две конкретные технологии. Главное —
+> 🌐 English version: [04-kafka-vs-rabbitmq.en.md](./04-kafka-vs-rabbitmq.en.md)
+
+Финал блока: вся теория из [02](./02-event-driven-messaging.ru.md) и
+[03](./03-reliability-patterns.ru.md) ложится на две конкретные технологии. Главное —
 не «фичи», а **два разных мира по природе**, из природы всё вытекает.
 
 > **RabbitMQ — очередь (сообщение доставили — оно исчезло). Kafka — лог
@@ -74,7 +76,7 @@ event sourcing, аналитика, перемотка истории. Мысл�
 | Ум | smart broker / dumb consumer | dumb broker / smart consumer |
 | Профиль | команды воркерам, RPC | потоки событий, стриминг |
 
-## Как выбирать (трейд-офф из [01-foundations](./01-foundations.md))
+## Как выбирать (трейд-офф из [01-foundations](./01-foundations.ru.md))
 - сложная маршрутизация, раздать задания воркерам, каждое сообщение съедается
   один раз → **RabbitMQ**;
 - высокий поток, много независимых потребителей, перемотка истории, event

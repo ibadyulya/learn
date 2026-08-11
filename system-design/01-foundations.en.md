@@ -5,7 +5,7 @@ The bedrock under all of system design. Read first — these ideas underpin
 [03-reliability-patterns](./03-reliability-patterns.en.md) and
 [04-kafka-vs-rabbitmq](./04-kafka-vs-rabbitmq.en.md).
 
-> 🌐 Russian version: [01-foundations.md](./01-foundations.md)
+> 🌐 Russian version: [01-foundations.ru.md](./01-foundations.ru.md)
 
 The interview meta-rule: system design tests the **ability to reason about
 trade-offs**, not knowledge of a specific technology. The right answer almost

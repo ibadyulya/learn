@@ -3,7 +3,7 @@
 The system design area. One topic = one file, read in numeric order. The overall
 prep plan — in [../PLAN.en.md](../PLAN.en.md).
 
-> 🌐 Russian version: [README.md](./README.md)
+> 🌐 Russian version: [README.ru.md](./README.ru.md)
 
 The through-line of the area: **the network is unreliable, nodes fail. Almost
 every pattern is an answer to "you can't guarantee delivery/processing exactly

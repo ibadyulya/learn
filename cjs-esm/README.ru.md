@@ -1,5 +1,7 @@
 # CommonJS vs ES Modules
 
+> 🌐 English version: [README.en.md](./README.en.md)
+
 Две системы модулей в JavaScript: что это, откуда взялись, чем отличаются и
 почему это всплывает на собесе (в том числе в связке с event loop). Читается как
 рассказ, а не как шпаргалка — идея в том, чтобы **понять**, а не запомнить.
@@ -304,4 +306,4 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 ---
 
-См. [tasks.md](./tasks.md) — вопросы на понимание. Разборы — в [answers.md](./answers.md).
+См. [tasks.ru.md](./tasks.ru.md) — вопросы на понимание. Разборы — в [answers.ru.md](./answers.ru.md).

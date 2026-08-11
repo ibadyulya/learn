@@ -1,8 +1,10 @@
 # Event-driven и очереди сообщений
 
+> 🌐 English version: [02-event-driven-messaging.en.md](./02-event-driven-messaging.en.md)
+
 Зачем нужна архитектура на событиях, кто её участники и какие бывают гарантии
-доставки. Опирается на [01-foundations](./01-foundations.md); дальше — как сделать
-это надёжным в [03-reliability-patterns](./03-reliability-patterns.md).
+доставки. Опирается на [01-foundations](./01-foundations.ru.md); дальше — как сделать
+это надёжным в [03-reliability-patterns](./03-reliability-patterns.ru.md).
 
 ---
 
@@ -65,7 +67,7 @@ Event-driven переворачивает: сервис заказов **ник�
 такой, что повтор ничего не меняет. Снаружи «ровно один раз», внутри «доставили
 сколько-то, эффект однократный» — это **effectively-once**.
 
-**Формула-стержень** (её раскрывает [03-reliability-patterns](./03-reliability-patterns.md)):
+**Формула-стержень** (её раскрывает [03-reliability-patterns](./03-reliability-patterns.ru.md)):
 ```
 at-least-once (доставка)  +  идемпотентность (обработка)  =  effectively-once
 ```

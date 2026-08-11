@@ -1,9 +1,11 @@
 # Reliability-паттерны
 
+> 🌐 English version: [03-reliability-patterns.en.md](./03-reliability-patterns.en.md)
+
 Как сделать доставку надёжной: ack/nack, идемпотентность, transactional outbox,
 retries + backoff, DLQ, rate limiting, crash recovery. Продолжение
-[02-event-driven-messaging](./02-event-driven-messaging.md); понятия
-Kafka/Rabbit — в [04-kafka-vs-rabbitmq](./04-kafka-vs-rabbitmq.md).
+[02-event-driven-messaging](./02-event-driven-messaging.ru.md); понятия
+Kafka/Rabbit — в [04-kafka-vs-rabbitmq](./04-kafka-vs-rabbitmq.ru.md).
 
 Сквозная идея всего блока:
 

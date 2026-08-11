@@ -3,7 +3,7 @@
 Navigation by topic. Each topic is a folder with a conspect, tasks and answers.
 Click a topic title to jump to its conspect.
 
-> 🌐 Russian version: [PLAN.md](./PLAN.md)
+> 🌐 Russian version: [PLAN.ru.md](./PLAN.ru.md)
 
 ---
 

@@ -1,6 +1,8 @@
 # Event Loop — разборы задач
 
-Сначала попробуй сам в [tasks.md](./tasks.md), потом сверяйся.
+> 🌐 English version: [answers.en.md](./answers.en.md)
+
+Сначала попробуй сам в [tasks.ru.md](./tasks.ru.md), потом сверяйся.
 
 ---
 

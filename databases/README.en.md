@@ -3,7 +3,7 @@
 The database area. One topic = one file (`NN-topic.md`), with `.tasks.md` and
 `.answers.md` alongside for self-checks. The overall plan — [../PLAN.en.md](../PLAN.en.md).
 
-> 🌐 Russian version: [README.md](./README.md)
+> 🌐 Russian version: [README.ru.md](./README.ru.md)
 
 A topic about **a single DB** (transactions, isolation, locks), in contrast to
 the distributed queues in [../system-design/](../system-design/). Replication and

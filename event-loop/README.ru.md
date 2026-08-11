@@ -1,5 +1,7 @@
 # Event Loop (Node.js) — конспект
 
+> 🌐 English version: [README.en.md](./README.en.md)
+
 Материал для подготовки к senior fullstack JS собесу. Тема: как Node решает,
 что выполнять следующим.
 
@@ -123,4 +125,4 @@ fs.readFile(__filename, () => {
 
 ---
 
-См. [tasks.md](./tasks.md) — задачи-трассировки. Разборы — в [answers.md](./answers.md).
+См. [tasks.ru.md](./tasks.ru.md) — задачи-трассировки. Разборы — в [answers.ru.md](./answers.ru.md).

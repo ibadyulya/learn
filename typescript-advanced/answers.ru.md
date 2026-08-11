@@ -1,5 +1,7 @@
 # Advanced TypeScript — разборы
 
+> 🌐 English version: [answers.en.md](./answers.en.md)
+
 ---
 
 ## Задача 1 — свой `Pick`

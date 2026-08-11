@@ -1,9 +1,11 @@
 # Основы: распределённые системы и трейд-оффы
 
+> 🌐 English version: [01-foundations.en.md](./01-foundations.en.md)
+
 Фундамент под всем system design. Читать первым — на эти идеи опираются
-[02-event-driven-messaging](./02-event-driven-messaging.md),
-[03-reliability-patterns](./03-reliability-patterns.md) и
-[04-kafka-vs-rabbitmq](./04-kafka-vs-rabbitmq.md).
+[02-event-driven-messaging](./02-event-driven-messaging.ru.md),
+[03-reliability-patterns](./03-reliability-patterns.ru.md) и
+[04-kafka-vs-rabbitmq](./04-kafka-vs-rabbitmq.ru.md).
 
 Мета-правило собеса: system design проверяет **умение рассуждать про
 трейд-оффы**, а не знание конкретной технологии. Правильный ответ почти всегда

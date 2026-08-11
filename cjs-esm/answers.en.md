@@ -1,6 +1,6 @@
 # CJS / ESM — solutions
 
-> 🌐 Russian version: [answers.md](./answers.md)
+> 🌐 Russian version: [answers.ru.md](./answers.ru.md)
 
 ---
 

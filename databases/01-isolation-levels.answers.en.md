@@ -1,6 +1,6 @@
 # Isolation levels — solutions
 
-> 🌐 Russian version: [01-isolation-levels.answers.md](./01-isolation-levels.answers.md)
+> 🌐 Russian version: [01-isolation-levels.answers.ru.md](./01-isolation-levels.answers.ru.md)
 
 ---
 

@@ -1,5 +1,7 @@
 # CJS / ESM — разборы
 
+> 🌐 English version: [answers.en.md](./answers.en.md)
+
 ---
 
 ## Вопрос 1

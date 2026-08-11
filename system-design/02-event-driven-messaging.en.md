@@ -5,7 +5,7 @@ delivery guarantees exist. Builds on [01-foundations](./01-foundations.en.md);
 next — how to make it reliable in
 [03-reliability-patterns](./03-reliability-patterns.en.md).
 
-> 🌐 Russian version: [02-event-driven-messaging.md](./02-event-driven-messaging.md)
+> 🌐 Russian version: [02-event-driven-messaging.ru.md](./02-event-driven-messaging.ru.md)
 
 ---
 

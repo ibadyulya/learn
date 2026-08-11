@@ -1,6 +1,8 @@
 # Advanced TypeScript — задачи
 
-Реализуй тип сам, без подсказок, потом сверься с [answers.md](./answers.md).
+> 🌐 English version: [tasks.en.md](./tasks.en.md)
+
+Реализуй тип сам, без подсказок, потом сверься с [answers.ru.md](./answers.ru.md).
 Проверяй себя мысленной подстановкой примера, как в разборе `ExtractByType`.
 
 Пока покрыто: generics, keyof/`T[K]`, mapped types, conditional, `never`, key

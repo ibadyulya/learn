@@ -6,7 +6,7 @@ The finale of the block: all the theory from
 main point — not "features", but **two different worlds by nature**; everything
 follows from that nature.
 
-> 🌐 Russian version: [04-kafka-vs-rabbitmq.md](./04-kafka-vs-rabbitmq.md)
+> 🌐 Russian version: [04-kafka-vs-rabbitmq.ru.md](./04-kafka-vs-rabbitmq.ru.md)
 
 > **RabbitMQ — a queue (a message delivered — it's gone). Kafka — a log (a
 > message written to a file, it stays, readers move their own "bookmark").**

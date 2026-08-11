@@ -1,7 +1,9 @@
 # Уровни изоляции — задачи
 
+> 🌐 English version: [01-isolation-levels.tasks.en.md](./01-isolation-levels.tasks.en.md)
+
 Отвечай своими словами, потом сверяйся с
-[01-isolation-levels.answers.md](./01-isolation-levels.answers.md).
+[01-isolation-levels.answers.ru.md](./01-isolation-levels.answers.ru.md).
 
 ---
 

@@ -4,7 +4,7 @@ Implement the type yourself, without hints, then check against
 [answers.en.md](./answers.en.md). Test yourself by mentally substituting an
 example, like in the `ExtractByType` walkthrough.
 
-> 🌐 Russian version: [tasks.md](./tasks.md)
+> 🌐 Russian version: [tasks.ru.md](./tasks.ru.md)
 
 Covered so far: generics, keyof/`T[K]`, mapped types, conditional, `never`, key
 remapping. Tasks on `infer` and distributivity are included too.

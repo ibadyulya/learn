@@ -5,7 +5,7 @@ differ and why it comes up in interviews (including in connection with the event
 loop). Reads as a story, not a cheat sheet — the goal is to **understand**, not
 memorize.
 
-> 🌐 Russian version: [README.md](./README.md)
+> 🌐 Russian version: [README.ru.md](./README.ru.md)
 
 In short, the whole topic boils down to one difference, from which everything
 else grows: **CommonJS figures out dependencies at runtime and synchronously,
