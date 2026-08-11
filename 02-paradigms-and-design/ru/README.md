@@ -11,5 +11,5 @@
 | 02 | [Функциональное программирование](./02-functional-programming.md) | 🚧 |
 | 03 | [Принципы SOLID](./03-solid.md) | ✅ |
 | 04 | [Паттерны GRASP](./04-grasp.md) | 🚧 |
-| 05 | [Паттерны проектирования (GoF)](./05-design-patterns-gof.md) | 🚧 |
+| 05 | [Паттерны проектирования (GoF)](./05-design-patterns-gof.md) | ✅ |
 | 06 | [Связанность, связность и базовые принципы](./06-coupling-cohesion-principles.md) | 🚧 |
