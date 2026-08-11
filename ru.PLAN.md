@@ -6,14 +6,14 @@
 
 | # | Категория | О чём |
 |---|---|---|
-| 01 | [JavaScript и TypeScript](./01-js-typescript/ru.README.md) | ядро языка — движок и система типов |
-| 02 | [Парадигмы и проектирование](./02-paradigms-and-design/ru.README.md) | ООП, ФП, SOLID, GRASP, паттерны GoF |
-| 03 | [Фронтенд](./03-frontend/ru.README.md) | React, Vue, браузер, производительность |
-| 04 | [Бэкенд](./04-backend/ru.README.md) | Node, Nest, API, аутентификация, тесты |
-| 05 | [Базы данных](./05-databases/ru.README.md) | транзакции, индексы, моделирование |
-| 06 | [System Design](./06-system-design/ru.README.md) | надёжность и масштабируемость |
-| 07 | [Основы CS](./07-cs-fundamentals/ru.README.md) | структуры данных и алгоритмы |
+| 01 | [JavaScript и TypeScript](./01-js-typescript/ru/README.md) | ядро языка — движок и система типов |
+| 02 | [Парадигмы и проектирование](./02-paradigms-and-design/ru/README.md) | ООП, ФП, SOLID, GRASP, паттерны GoF |
+| 03 | [Фронтенд](./03-frontend/ru/README.md) | React, Vue, браузер, производительность |
+| 04 | [Бэкенд](./04-backend/ru/README.md) | Node, Nest, API, аутентификация, тесты |
+| 05 | [Базы данных](./05-databases/ru/README.md) | транзакции, индексы, моделирование |
+| 06 | [System Design](./06-system-design/ru/README.md) | надёжность и масштабируемость |
+| 07 | [Основы CS](./07-cs-fundamentals/ru/README.md) | структуры данных и алгоритмы |
 
-**Легенда:** ✅ написано · 🚧 запланировано (заглушка, TODO). Каждая тема — файл с
-конспектом и, где есть, задачами и разборами. Именование: `ru.NN-тема.md` /
-`en.NN-тема.md`, чтобы файлы группировались по языку.
+**Легенда:** ✅ написано · 🚧 запланировано (заглушка, TODO). В каждой категории есть
+подпапки `en/` и `ru/`; внутри каждая тема — `NN-тема.md`, а где есть — `NN-тема.tasks.md`
+и `NN-тема.answers.md`.
