@@ -10,6 +10,6 @@ How to write good code: OOP, FP, SOLID, GRASP, GoF.
 | 01 | [OOP fundamentals](./01-oop-fundamentals.md) | ✅ |
 | 02 | [Functional programming](./02-functional-programming.md) | ✅ |
 | 03 | [SOLID principles](./03-solid.md) | ✅ |
-| 04 | [GRASP patterns](./04-grasp.md) | 🚧 |
+| 04 | [GRASP patterns](./04-grasp.md) | ✅ |
 | 05 | [Design patterns (Gang of Four)](./05-design-patterns-gof.md) | ✅ |
-| 06 | [Coupling, cohesion & core principles](./06-coupling-cohesion-principles.md) | 🚧 |
+| 06 | [Coupling, cohesion & core principles](./06-coupling-cohesion-principles.md) | ✅ |
