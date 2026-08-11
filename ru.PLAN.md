@@ -1,36 +1,19 @@
 # Меню подготовки к собесу (senior fullstack JS)
 
+Семь областей, каждая — папка с темами. Кликни по категории, чтобы открыть её меню.
+
 > 🌐 English version: [en.PLAN.md](./en.PLAN.md)
 
-Навигация по темам. Каждая тема — папка с конспектом, задачами и разборами.
-Кликай по названию темы, чтобы перейти к конспекту.
+| # | Категория | О чём |
+|---|---|---|
+| 01 | [JavaScript и TypeScript](./01-js-typescript/ru.README.md) | ядро языка — движок и система типов |
+| 02 | [Парадигмы и проектирование](./02-paradigms-and-design/ru.README.md) | ООП, ФП, SOLID, GRASP, паттерны GoF |
+| 03 | [Фронтенд](./03-frontend/ru.README.md) | React, Vue, браузер, производительность |
+| 04 | [Бэкенд](./04-backend/ru.README.md) | Node, Nest, API, аутентификация, тесты |
+| 05 | [Базы данных](./05-databases/ru.README.md) | транзакции, индексы, моделирование |
+| 06 | [System Design](./06-system-design/ru.README.md) | надёжность и масштабируемость |
+| 07 | [Основы CS](./07-cs-fundamentals/ru.README.md) | структуры данных и алгоритмы |
 
----
-
-## 🔁 [Event Loop (Node.js)](./event-loop/ru.README.md)
-Как Node решает, что выполнять следующим: фазы libuv, микро/макротаски,
-`nextTick`, гонка `setTimeout(0)` vs `setImmediate`.
-→ [Конспект](./event-loop/ru.README.md) · [Задачи](./event-loop/ru.tasks.md) · [Разборы](./event-loop/ru.answers.md)
-
-## 📦 [CommonJS vs ESM](./cjs-esm/ru.README.md)
-Две системы модулей: синхронная динамическая загрузка (CJS) против асинхронной
-статической (ESM), живые связи, интероп, `import.meta`, top-level await.
-→ [Конспект](./cjs-esm/ru.README.md) · [Задачи](./cjs-esm/ru.tasks.md) · [Разборы](./cjs-esm/ru.answers.md)
-
-## 🧠 [Advanced TypeScript](./typescript-advanced/ru.README.md)
-Типы как второй язык: generics, mapped/conditional types, `infer`, `never`,
-key remapping, дистрибутивность, разбор утилитных типов.
-→ [Конспект](./typescript-advanced/ru.README.md) · [Задачи](./typescript-advanced/ru.tasks.md) · [Разборы](./typescript-advanced/ru.answers.md)
-
-## 🏗️ [System Design](./system-design/ru.README.md)
-Надёжный event-driven backend и масштабирование. Один топик = один файл.
-- [01 — Foundations](./system-design/ru.01-foundations.md) — CAP/PACELC, трейд-офф-мышление
-- [02 — Event-driven messaging](./system-design/ru.02-event-driven-messaging.md) — продюсер/брокер/консьюмер, семантики доставки
-- [03 — Reliability patterns](./system-design/ru.03-reliability-patterns.md) — ack/nack, идемпотентность, outbox, retries, DLQ
-- [04 — Kafka vs RabbitMQ](./system-design/ru.04-kafka-vs-rabbitmq.md) — лог vs очередь
-- [05 — Scaling](./system-design/ru.05-scaling.md) — вертикаль/горизонталь, cluster/PM2, worker_threads
-- [06 — Scaling data](./system-design/ru.06-scaling-data.md) — балансировка, репликация, шардинг
-
-## 🗄️ [Databases](./databases/ru.README.md)
-Про одну БД: транзакции, изоляция, блокировки. Один топик = один файл.
-- [01 — Уровни изоляции](./databases/ru.01-isolation-levels.md) · [Задачи](./databases/ru.01-isolation-levels.tasks.md) · [Разборы](./databases/ru.01-isolation-levels.answers.md)
+**Легенда:** ✅ написано · 🚧 запланировано (заглушка, TODO). Каждая тема — файл с
+конспектом и, где есть, задачами и разборами. Именование: `ru.NN-тема.md` /
+`en.NN-тема.md`, чтобы файлы группировались по языку.
