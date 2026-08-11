@@ -1,0 +1,2 @@
+# Локальные настройки Claude Code (специфичны для машины)
+.claude/settings.local.json
