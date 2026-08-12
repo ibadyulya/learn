@@ -11,4 +11,4 @@ Data structures, complexity, algorithms.
 | 02 | [Complexity & Big-O](./02-complexity-big-o.md) | ✅ |
 | 03 | [Sorting & searching](./03-sorting-searching.md) | ✅ |
 | 04 | [Common algorithms & techniques](./04-common-algorithms.md) | ✅ |
-| 05 | [Recursion & backtracking](./05-recursion.md) | 🚧 |
+| 05 | [Recursion & backtracking](./05-recursion.md) | ✅ |
