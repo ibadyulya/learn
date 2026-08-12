@@ -14,5 +14,5 @@
 | 05 | [`this`, прототипы и наследование](./05-this-prototypes-inheritance.md) | ✅ |
 | 06 | [Асинхронность (промисы, async/await)](./06-async-patterns.md) | ✅ |
 | 07 | [Типы, приведение и равенство](./07-types-coercion-equality.md) | ✅ |
-| 08 | [Итераторы и генераторы](./08-iterators-generators.md) | 🚧 |
-| 09 | [Память и сборка мусора](./09-memory-garbage-collection.md) | 🚧 |
+| 08 | [Итераторы и генераторы](./08-iterators-generators.md) | ✅ |
+| 09 | [Память и сборка мусора](./09-memory-garbage-collection.md) | ✅ |
