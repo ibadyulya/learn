@@ -12,7 +12,7 @@ Language core — the JS/TS engine and type system.
 | 03 | [Advanced TypeScript](./03-advanced-typescript.md) | ✅ |
 | 04 | [Closures & scope](./04-closures-scope.md) | ✅ |
 | 05 | [`this`, prototypes & inheritance](./05-this-prototypes-inheritance.md) | ✅ |
-| 06 | [Async patterns (promises, async/await)](./06-async-patterns.md) | 🚧 |
-| 07 | [Types, coercion & equality](./07-types-coercion-equality.md) | 🚧 |
+| 06 | [Async patterns (promises, async/await)](./06-async-patterns.md) | ✅ |
+| 07 | [Types, coercion & equality](./07-types-coercion-equality.md) | ✅ |
 | 08 | [Iterators & generators](./08-iterators-generators.md) | 🚧 |
 | 09 | [Memory & garbage collection](./09-memory-garbage-collection.md) | 🚧 |
