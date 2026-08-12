@@ -14,4 +14,4 @@
 | 05 | [Блокировки и MVCC](./05-locking-mvcc.md) | ✅ |
 | 06 | [Оптимизация запросов](./06-query-optimization.md) | ✅ |
 | 07 | [Нормализация](./07-normalization.md) | ✅ |
-| 08 | [MongoDB и Redis](./08-mongodb-redis.md) | 🚧 |
+| 08 | [MongoDB и Redis](./08-mongodb-redis.md) | ✅ |
