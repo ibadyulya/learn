@@ -7,8 +7,8 @@ Node, Nest, проектирование API, аутентификация, те
 
 | # | Тема | Статус |
 |---|---|---|
-| 01 | [Node.js](./01-nodejs.md) | 🚧 |
-| 02 | [NestJS](./02-nestjs.md) | 🚧 |
+| 01 | [Node.js](./01-nodejs.md) | ✅ |
+| 02 | [NestJS](./02-nestjs.md) | ✅ |
 | 03 | [Проектирование REST API](./03-rest-api-design.md) | 🚧 |
 | 04 | [Аутентификация и авторизация](./04-auth.md) | 🚧 |
 | 05 | [Валидация и обработка ошибок](./05-validation-error-handling.md) | 🚧 |
