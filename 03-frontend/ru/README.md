@@ -13,4 +13,4 @@
 | 04 | [Браузер, DOM и рендеринг](./04-browser-dom-rendering.md) | ✅ |
 | 05 | [Веб-производительность](./05-web-performance.md) | ✅ |
 | 06 | [HTML и CSS](./06-html-css.md) | ✅ |
-| 07 | [Тестирование фронтенда](./07-frontend-testing.md) | 🚧 |
+| 07 | [Тестирование фронтенда](./07-frontend-testing.md) | ✅ |

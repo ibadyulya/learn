@@ -13,4 +13,4 @@ Frameworks, the browser, and performance.
 | 04 | [Browser, DOM & rendering](./04-browser-dom-rendering.md) | ✅ |
 | 05 | [Web performance](./05-web-performance.md) | ✅ |
 | 06 | [HTML & CSS](./06-html-css.md) | ✅ |
-| 07 | [Frontend testing](./07-frontend-testing.md) | 🚧 |
+| 07 | [Frontend testing](./07-frontend-testing.md) | ✅ |
