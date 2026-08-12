@@ -7,8 +7,8 @@ Frameworks, the browser, and performance.
 
 | # | Topic | Status |
 |---|---|---|
-| 01 | [React](./01-react.md) | 🚧 |
-| 02 | [Vue](./02-vue.md) | 🚧 |
+| 01 | [React](./01-react.md) | ✅ |
+| 02 | [Vue](./02-vue.md) | ✅ |
 | 03 | [State management](./03-state-management.md) | 🚧 |
 | 04 | [Browser, DOM & rendering](./04-browser-dom-rendering.md) | 🚧 |
 | 05 | [Web performance](./05-web-performance.md) | 🚧 |
