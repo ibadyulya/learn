@@ -12,6 +12,6 @@ One DB: transactions, indexing, modeling.
 | 03 | [SQL vs NoSQL](./03-sql-vs-nosql.md) | ✅ |
 | 04 | [ACID & transactions](./04-acid-transactions.md) | ✅ |
 | 05 | [Locking & MVCC](./05-locking-mvcc.md) | ✅ |
-| 06 | [Query optimization](./06-query-optimization.md) | 🚧 |
-| 07 | [Normalization](./07-normalization.md) | 🚧 |
+| 06 | [Query optimization](./06-query-optimization.md) | ✅ |
+| 07 | [Normalization](./07-normalization.md) | ✅ |
 | 08 | [MongoDB & Redis](./08-mongodb-redis.md) | 🚧 |

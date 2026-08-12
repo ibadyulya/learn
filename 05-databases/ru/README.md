@@ -12,6 +12,6 @@
 | 03 | [SQL против NoSQL](./03-sql-vs-nosql.md) | ✅ |
 | 04 | [ACID и транзакции](./04-acid-transactions.md) | ✅ |
 | 05 | [Блокировки и MVCC](./05-locking-mvcc.md) | ✅ |
-| 06 | [Оптимизация запросов](./06-query-optimization.md) | 🚧 |
-| 07 | [Нормализация](./07-normalization.md) | 🚧 |
+| 06 | [Оптимизация запросов](./06-query-optimization.md) | ✅ |
+| 07 | [Нормализация](./07-normalization.md) | ✅ |
 | 08 | [MongoDB и Redis](./08-mongodb-redis.md) | 🚧 |
