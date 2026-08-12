@@ -104,7 +104,7 @@ they almost always mean the first.
 
 ## OOP in JavaScript: classes are sugar over prototypes
 
-An important quirk (details in [this-prototypes-inheritance](./05-this-prototypes-inheritance.md)):
+An important quirk (details in [this-prototypes-inheritance](../../01-js-typescript/en/05-this-prototypes-inheritance.md)):
 JS has no "real" classes like Java. `class` is syntactic sugar over **prototypal**
 inheritance: an object references a prototype object from which it takes methods.
 `extends` builds a prototype chain. You need to understand this so you're not

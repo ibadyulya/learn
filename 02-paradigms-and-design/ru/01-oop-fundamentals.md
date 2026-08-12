@@ -101,7 +101,7 @@ shapes.forEach(s => console.log(s.area()));   // каждый считает п�
 
 ## ООП в JavaScript: классы — это сахар над прототипами
 
-Важная особенность (детали — в [this-prototypes-inheritance](./05-this-prototypes-inheritance.md)):
+Важная особенность (детали — в [this-prototypes-inheritance](../../01-js-typescript/ru/05-this-prototypes-inheritance.md)):
 в JS нет «настоящих» классов как в Java. `class` — синтаксический сахар над
 **прототипным** наследованием: объект ссылается на объект-прототип, откуда берёт
 методы. `extends` выстраивает цепочку прототипов. Понимать это нужно, чтобы не
