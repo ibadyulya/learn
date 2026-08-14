@@ -86,6 +86,16 @@ the functional setter update.
 
 ---
 
+## Where all this renders (CSR, SSR, Next.js)
+
+Everything above is React **on the client** (CSR): the browser gets a nearly empty HTML
+and builds the UI from JS. For a senior it's important to know the other strategies too —
+server-side rendering (SSR), static generation (SSG/ISR), **hydration**, and server
+components (RSC), which Next.js provides. That's a separate large topic — see
+[rendering-and-nextjs](./08-rendering-and-nextjs.md).
+
+---
+
 ## Interview phrasing
 
 > "React — a declarative UI as a function of state: I describe what to show for a given

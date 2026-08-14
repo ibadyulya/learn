@@ -14,3 +14,4 @@
 | 05 | [Веб-производительность](./05-web-performance.md) | ✅ |
 | 06 | [HTML и CSS](./06-html-css.md) | ✅ |
 | 07 | [Тестирование фронтенда](./07-frontend-testing.md) | ✅ |
+| 08 | [Рендеринг, SSR и Next.js](./08-rendering-and-nextjs.md) | ✅ |

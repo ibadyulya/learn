@@ -14,3 +14,4 @@ Frameworks, the browser, and performance.
 | 05 | [Web performance](./05-web-performance.md) | ✅ |
 | 06 | [HTML & CSS](./06-html-css.md) | ✅ |
 | 07 | [Frontend testing](./07-frontend-testing.md) | ✅ |
+| 08 | [Rendering, SSR & Next.js](./08-rendering-and-nextjs.md) | ✅ |
